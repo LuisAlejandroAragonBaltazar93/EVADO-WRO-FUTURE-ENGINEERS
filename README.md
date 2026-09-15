@@ -1,11 +1,7 @@
 Materiales de ingeniería
 ====
 
-Este repositorio contiene materiales de ingeniería de un modelo de vehículo autónomo que participa en la competición WRO Future Engineers en la temporada 2025.
-
-Este repositorio trata de ser una versión fiel, traducida al español de la plantilla generada por la [World Robot Olympiad](https://github.com/World-Robot-Olympiad-Association/wro2022-fe-template/), tenga en cuenta que para la competencia internacional el texto debe estar en ingles.
-
-<b>Recuerde que el repositorio debe ser público y siempre accesible.</b>
+Este repositorio contiene materiales de ingeniería de un modelo de vehículo autónomo que participa en la competición WRO Future Engineers en la temporada 2026.
 
 ## Contenido
 
@@ -19,18 +15,11 @@ Este repositorio trata de ser una versión fiel, traducida al español de la pla
 
 ## Introducción
 
+Este robot esta hecho con un ESP32 conectado a una protoboard y un controlador de motores todo para hacer funcionar un motor de traccion, un servo motor para la direccional, sensores laser para detectar la distancia de las paredes y una camara HUSKY para detectar los pilares de color verde y rojo respectivamente
+
 _Esta parte debe ser completada por los participantes con las aclaraciones técnicas sobre el código: de qué módulos consta el código, cómo se relacionan con los componentes electromecánicos del vehículo y cuál es el proceso para construir/compilar/cargar el código a los controladores del vehículo._
 
-## Cómo preparar el repositorio en función de la plantilla
 
-_Elimine esta sección antes de la primera confirmación en el repositorio_
-
-1. Clone este repositorio utilizando la funcionalidad `git clone`.
-2. Elimine el directorio `.git`
-3. [Inicialice un nuevo repositorio público en GitHub](https://github.com/new) siguiendo las instrucciones de la sección "Crear un nuevo repositorio en la línea de comandos" (que aparece después de presionar el botón "Crear repositorio").
-
-
----
 
 Engineering materials
 ====
