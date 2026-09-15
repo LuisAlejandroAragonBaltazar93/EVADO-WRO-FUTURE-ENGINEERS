@@ -10,7 +10,7 @@ Este repositorio contiene materiales de ingeniería de un modelo de vehículo au
 * `video` contiene el archivo video.md con el enlace a un vídeo en el que existe una demostración de conducción
 * `schemes` contiene uno o varios diagramas esquemáticos en formato JPEG, PNG o PDF de los componentes electromecánicos que ilustran todos los elementos (componentes electrónicos y motores) utilizados en el vehículo y cómo se conectan entre sí.
 * `src` contiene el código del software de control de todos los componentes que se programaron para participar en la competición
-* `models` es para los archivos de los modelos utilizados por impresoras 3D, máquinas de corte por láser y máquinas CNC para producir los elementos del vehículo. Si no hay nada que agregar a esta ubicación, se puede eliminar el directorio.
+* `models` es para los archivos de los modelos utilizados por impresoras 3D, máquinas de corte por láser y máquinas CNC para producir los elementos del vehículo. 
 * `other` es para otros archivos que se pueden usar para entender cómo preparar el vehículo para la competencia. Puede incluir documentación sobre cómo conectarse a un SBC/SBM y cargar archivos allí, conjuntos de datos, especificaciones de hardware, descripciones de protocolos de comunicación, etc. Si no hay nada que agregar a esta ubicación, se puede eliminar el directorio.
 
 ## Introducción
